@@ -1,0 +1,5 @@
+numpy==2.2.2
+pandas==2.2.3
+ccxt==4.4.61
+Flask==3.0.3
+gunicorn==22.0.0

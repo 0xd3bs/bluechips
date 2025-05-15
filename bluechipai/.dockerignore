@@ -1,0 +1,18 @@
+# Ignore the virtual environment directory
+venv
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore Scarb build artifacts
+cairo/**/target/
+
+# Ignore other common files
+*.log
+*.tmp
+.DS_Store
+.env
+
+# Exclude VSCode launch configuration
+.vscode/launch.json
